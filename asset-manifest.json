@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2e4ea33d.css",
-    "main.js": "/static/js/main.77661a00.js",
+    "main.js": "/static/js/main.142500ff.js",
     "static/js/787.17a3b8bc.chunk.js": "/static/js/787.17a3b8bc.chunk.js",
     "static/media/restuarant1.jpg": "/static/media/restuarant1.828a9eb2d5861ee61c51.jpg",
     "static/media/hotel-southAfrica3.jpg": "/static/media/hotel-southAfrica3.de315b5953edc1d14a1d.jpg",
@@ -48,11 +48,11 @@
     "index.html": "/index.html",
     "static/media/quote-left-solid.svg": "/static/media/quote-left-solid.39d3fc2dd48e195023d24a5aa7944439.svg",
     "main.2e4ea33d.css.map": "/static/css/main.2e4ea33d.css.map",
-    "main.77661a00.js.map": "/static/js/main.77661a00.js.map",
+    "main.142500ff.js.map": "/static/js/main.142500ff.js.map",
     "787.17a3b8bc.chunk.js.map": "/static/js/787.17a3b8bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e4ea33d.css",
-    "static/js/main.77661a00.js"
+    "static/js/main.142500ff.js"
   ]
 }
